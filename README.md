@@ -2,6 +2,5 @@
 
 Flutter Project using Redux and SpaceNews API
 
-## Getting Started
-Screenshot from the application:
+## Screenshot from the app
 ![App Screenshot](./readme_screenshot.png)
